@@ -30,7 +30,7 @@ const SecondPage: React.FC = () => {
           <p style={{marginRight:'2rem'}}>Email: {userData.email}</p>
         </div>
       )}
-      <h2>Data Table</h2>
+      <h2>Table Data</h2>
       <DataTable />
 
       <h2>Department List</h2>
